@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SwiftLocationController"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "Swift based location controller for iOS Apps."
   s.swift_version= "4.2"
 
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   A swift based Location controller which can be easily integrated into any app
                    DESC
 
-  s.homepage     = "http://github.com/omergulzar2/SwiftLocationController"
+  s.homepage     = "https://github.com/omergulzar2/SwiftLocationController"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
